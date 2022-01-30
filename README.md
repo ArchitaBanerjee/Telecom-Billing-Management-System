@@ -1,2 +1,2 @@
 # Telecom-Billing-Management-System
-Mini Project
+Mini Project in C (Programming Language)
